@@ -1,0 +1,519 @@
+{
+  "importedOn": "2026-09-09",
+  "sourceFileCount": 43,
+  "uniquePhotoCount": 39,
+  "notes": "Re-filed on 2026-09-09 at Diksha's request: a photograph of one person goes in that person's album (matched against the family portraits in assets/images/family), a group goes in Family Together, and Diksha's graduation goes in the one graduation album. Photo dates and exact locations still not inferred. Source timestamps are WhatsApp filenames, not capture dates. Copies are byte-for-byte originals; duplicate source files share one asset.",
+  "photos": [
+    {
+      "index": 1,
+      "sha256": "749c6be8160f45f765fa7a29d1eb61d4d42849464e231fb3c5056624d1d3e667",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 07.34.48.jpeg",
+        "WhatsApp Image 2026-09-09 at 11.04.17.jpeg"
+      ],
+      "size": [
+        960,
+        1280
+      ],
+      "album": "diya",
+      "asset": "assets/images/albums/diya_6.jpg"
+    },
+    {
+      "index": 2,
+      "sha256": "75609ffc3d4cf476a4b91c8a2d1dc81c8dabf0edb275dac5aad54312b09960b3",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 07.34.49.jpeg",
+        "WhatsApp Image 2026-09-09 at 11.04.17 (1).jpeg"
+      ],
+      "size": [
+        576,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_1.jpg"
+    },
+    {
+      "index": 3,
+      "sha256": "986bb2f76a65932e629fc5cacb42d651edb64ceaf9e5f4cda6a121ad9da7bc74",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 07.34.50.jpeg",
+        "WhatsApp Image 2026-09-09 at 11.04.18 (2).jpeg"
+      ],
+      "size": [
+        953,
+        1600
+      ],
+      "album": "dipisha",
+      "asset": "assets/images/albums/dipisha_11.jpg"
+    },
+    {
+      "index": 4,
+      "sha256": "bb54383193da8aa4174aa3449430d5be79dce0e3849540f982ce297b8992ed91",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 07.34.51.jpeg",
+        "WhatsApp Image 2026-09-09 at 11.04.17 (2).jpeg"
+      ],
+      "size": [
+        964,
+        1280
+      ],
+      "album": "dipisha",
+      "asset": "assets/images/albums/dipisha_8.jpg"
+    },
+    {
+      "index": 5,
+      "sha256": "35e844cc9ccdeb342f8693d87ff2319fada9866704555bcfee5cf0145f36138e",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.09.jpeg"
+      ],
+      "size": [
+        720,
+        1600
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_2.jpg"
+    },
+    {
+      "index": 6,
+      "sha256": "b92d872d49a05bfa44d616ecd3ba064873d3bd4d4ba592f5d8dc99834b5832d6",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.18 (1).jpeg"
+      ],
+      "size": [
+        964,
+        1280
+      ],
+      "album": "parents",
+      "asset": "assets/images/albums/parents_4.jpg"
+    },
+    {
+      "index": 7,
+      "sha256": "846f88e43a93f3287df3cc80b33829896c18301cd1b857428aa19ada803e00af",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.18.jpeg"
+      ],
+      "size": [
+        963,
+        1280
+      ],
+      "album": "diya",
+      "asset": "assets/images/albums/diya_3.jpg"
+    },
+    {
+      "index": 8,
+      "sha256": "2abef8d6dcb0eb8d7a3f3c7ba0a66cb29926feefa5f50584c8abdfc0ecade1a0",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.19 (1).jpeg"
+      ],
+      "size": [
+        937,
+        1600
+      ],
+      "album": "dipisha",
+      "asset": "assets/images/albums/dipisha_12.jpg"
+    },
+    {
+      "index": 9,
+      "sha256": "98d7220b2d0e4c9bb4a6631ae64eb834626b6b726e0e15df749fd3e6f376afd1",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.19 (2).jpeg"
+      ],
+      "size": [
+        720,
+        959
+      ],
+      "album": "dipisha",
+      "asset": "assets/images/albums/dipisha_9.jpg"
+    },
+    {
+      "index": 10,
+      "sha256": "012a3bc8e73eb37a0a7f1d890fa177b36cf4dbe5e9555514629a2eddcbc345c4",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.19.jpeg"
+      ],
+      "size": [
+        602,
+        844
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_1.jpg"
+    },
+    {
+      "index": 11,
+      "sha256": "dd5e5d18d5371fd615b40ad0d3f577a790b5b03edda20488f4c54b43d3455b01",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.20 (1).jpeg"
+      ],
+      "size": [
+        718,
+        550
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_2.jpg"
+    },
+    {
+      "index": 12,
+      "sha256": "b2d6e7a366b2ac3521cdffca9eff148e48e4697ab27729d3a67b18337d197dc5",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.20 (2).jpeg"
+      ],
+      "size": [
+        720,
+        549
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_3.jpg"
+    },
+    {
+      "index": 13,
+      "sha256": "1bad0fc1acb2f4eec463b9b6d3a5075a6e21b839f07c735a11a63cf732d8fc44",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.20 (3).jpeg"
+      ],
+      "size": [
+        963,
+        1280
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_4.jpg"
+    },
+    {
+      "index": 14,
+      "sha256": "ae1d9169cb7430eb4cb2a888561cec27a2da32fac571fe20966e9b3dbaf690f0",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.20.jpeg"
+      ],
+      "size": [
+        571,
+        1004
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_5.jpg"
+    },
+    {
+      "index": 15,
+      "sha256": "eb0cc801b388f9ee28e55dab1d6cbd474d7bd9fa0ae0cee4959ca45dea218d20",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.21 (1).jpeg"
+      ],
+      "size": [
+        963,
+        1280
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_6.jpg"
+    },
+    {
+      "index": 16,
+      "sha256": "33a0d7c8217c31ca3460b224fa00c7796350e2929d843e48c476eeedd6a79aa7",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.21 (2).jpeg"
+      ],
+      "size": [
+        960,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_3.jpg"
+    },
+    {
+      "index": 17,
+      "sha256": "81e470a82eeac37478852bef717da25e012a9238b26af13284941c9e9d4ef383",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.21.jpeg"
+      ],
+      "size": [
+        963,
+        1280
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_7.jpg"
+    },
+    {
+      "index": 18,
+      "sha256": "ede4d0aecfed12155c2bd60f4348a1fccbe6d383ad64413bbd796390dffe4038",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.22 (1).jpeg"
+      ],
+      "size": [
+        964,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_4.jpg"
+    },
+    {
+      "index": 19,
+      "sha256": "802061175bfc790fb1532e097097d9c15118bc5347189a2330c61096e5d4016f",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.22 (2).jpeg"
+      ],
+      "size": [
+        576,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_5.jpg"
+    },
+    {
+      "index": 20,
+      "sha256": "b597d536a63deb9eaf2e06039ce8aa51e8c06b1592c7b03ea5fe8582418ca4da",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.22.jpeg"
+      ],
+      "size": [
+        964,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_6.jpg"
+    },
+    {
+      "index": 21,
+      "sha256": "303788c06e7104f57c3d42bcdd330c3a7d70e745b0e3464f4177cdbb479bb993",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.23 (1).jpeg"
+      ],
+      "size": [
+        1600,
+        1449
+      ],
+      "album": "graduation",
+      "asset": "assets/images/albums/graduation_8.jpg"
+    },
+    {
+      "index": 22,
+      "sha256": "aba8ec33b1be1d73ad62b51e88c42fdcff35a0bf3afcbdd18256d9f32ea6c849",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.23 (2).jpeg"
+      ],
+      "size": [
+        576,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_7.jpg"
+    },
+    {
+      "index": 23,
+      "sha256": "51b4311cb6fbae7393deb2ca1bc7ee4e7942bbc7465d98c4a566b16dbdaeb4f5",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.23.jpeg"
+      ],
+      "size": [
+        576,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_8.jpg"
+    },
+    {
+      "index": 24,
+      "sha256": "ffbb0182d09fc246741f0df89c0c1a82dbea99a4088b4d0b3ae38989348f7f5c",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.24 (1).jpeg"
+      ],
+      "size": [
+        720,
+        1056
+      ],
+      "album": "diya",
+      "asset": "assets/images/albums/diya_4.jpg"
+    },
+    {
+      "index": 25,
+      "sha256": "918da3d7b37c0a30fcf567c68bd1ce875c52094e029c236996903e52b9c10144",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.24 (2).jpeg"
+      ],
+      "size": [
+        1003,
+        1152
+      ],
+      "album": "diksha",
+      "asset": "assets/images/albums/diksha_1.jpg"
+    },
+    {
+      "index": 26,
+      "sha256": "05ac2f120ac612c56ede35803f7fab2be6d6c322b16d2939ca6e69a337897aca",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.24.jpeg"
+      ],
+      "size": [
+        972,
+        1296
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_9.jpg"
+    },
+    {
+      "index": 27,
+      "sha256": "c5c8fe94ddb98efccc7e97a52c01ef67ee81bba063a9fca45edee785b746c61f",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.25 (1).jpeg"
+      ],
+      "size": [
+        720,
+        960
+      ],
+      "album": "parents",
+      "asset": "assets/images/albums/parents_5.jpg"
+    },
+    {
+      "index": 28,
+      "sha256": "33a588aad545ea57514a9949ea76c0f459311e526685aa2ae83c5878a60b2cfa",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.25 (2).jpeg"
+      ],
+      "size": [
+        719,
+        990
+      ],
+      "album": "diya",
+      "asset": "assets/images/albums/diya_5.jpg"
+    },
+    {
+      "index": 29,
+      "sha256": "ceeb492181c78da9e1684f62b4cfc9586ec2b26921afb8e13c4e74744e8006dd",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.25.jpeg"
+      ],
+      "size": [
+        720,
+        407
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_10.jpg"
+    },
+    {
+      "index": 30,
+      "sha256": "39df3e76a56aeed3d7687fabb3e1a50719f17d430cc0e26f35ad6ed623a56516",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.26 (1).jpeg"
+      ],
+      "size": [
+        960,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_11.jpg"
+    },
+    {
+      "index": 31,
+      "sha256": "338abd95656bf2a234b30c6af988c6bf3badd23245f9b113a3e2dedbc67c93a9",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.26 (2).jpeg"
+      ],
+      "size": [
+        720,
+        966
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_12.jpg"
+    },
+    {
+      "index": 32,
+      "sha256": "d6b3ee765a776c37047148c303b44bf0397fc88d85342ac741caeb77d2ba4f8f",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.26.jpeg"
+      ],
+      "size": [
+        720,
+        720
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_13.jpg"
+    },
+    {
+      "index": 33,
+      "sha256": "d77c107fe314510ad994be7f412a1e41fef7e5e894507547c9c4b2cb36ada35b",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.27 (1).jpeg"
+      ],
+      "size": [
+        960,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_14.jpg"
+    },
+    {
+      "index": 34,
+      "sha256": "b4939d7e568c41b3b91300ecc0d4b0385fdb89397e228243a03aa94f84b4a6db",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.27 (2).jpeg"
+      ],
+      "size": [
+        720,
+        964
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_15.jpg"
+    },
+    {
+      "index": 35,
+      "sha256": "0bb73371690372c9e19a837dac70bcebf07d05beae988007484d74c9c10ed4dd",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.27.jpeg"
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_16.jpg"
+    },
+    {
+      "index": 36,
+      "sha256": "c3106ff31b48a2f04d5721073fb6e69153830986073bc7f7f37e42a5ec0eae12",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.28 (1).jpeg"
+      ],
+      "size": [
+        1402,
+        1600
+      ],
+      "album": "dipisha",
+      "asset": "assets/images/albums/dipisha_10.jpg"
+    },
+    {
+      "index": 37,
+      "sha256": "4ecaedf2c11d6e77c03d78baaa75536d6fbebc30c6dca2935889135c6eff2a99",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.28 (2).jpeg"
+      ],
+      "size": [
+        805,
+        890
+      ],
+      "album": "festivals",
+      "asset": "assets/images/albums/festivals_1.jpg"
+    },
+    {
+      "index": 38,
+      "sha256": "f31ae636e5c7124c2e23ff2a410f915354fed0c7e049a1064a039b4a89f65bdd",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.28 (3).jpeg"
+      ],
+      "size": [
+        720,
+        993
+      ],
+      "album": "family_together",
+      "asset": "assets/images/albums/family_together_17.jpg"
+    },
+    {
+      "index": 39,
+      "sha256": "89ab1e36ac2b11de94ace94b2e7b4c29fa255d5a66922140bf13d8cf2abbfc4b",
+      "sources": [
+        "WhatsApp Image 2026-09-09 at 11.04.28.jpeg"
+      ],
+      "size": [
+        1432,
+        1600
+      ],
+      "album": "parents",
+      "asset": "assets/images/albums/parents_6.jpg"
+    }
+  ]
+}
